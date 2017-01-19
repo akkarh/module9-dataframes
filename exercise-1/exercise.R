@@ -27,3 +27,4 @@ opponent.names <- c("Saints", "Bills", "Patriots", "Eagles", "Buccaneers", "Pant
 rownames(seahawks.data) <- opponent.names
 
 # View your data frame to see how it has changed!
+seahawks.data
